@@ -1,0 +1,22 @@
+body {
+    background-color: #f4c9c9;
+}
+#flex {
+    display: flex;
+    flex-direction: row;
+}
+nav {
+    background-color: #ed7a9e;
+}
+main {
+    background-color: #f484c4;
+}
+h1 {
+    color: #7c1e3f;
+}
+h2 {
+    color: #75263d;
+}
+p {
+    color: #6d213f;
+}
